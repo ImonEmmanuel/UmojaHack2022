@@ -24,8 +24,7 @@ The solution will aid Zimnat in being better prepared to address claims that are
     - Data Transformation and Feature Engineering to Create More Features
     - Created new Feature with the Loss Date Column and drop some column that were acting as noise after creating a baseline model
     - Used a Kfold of 10 Splits as this perform well
-    -Used Deafault parameters for training
-- Finally created a Blend Model for the 3 Model 
+    -Used Deafault parameters for training 
 
 ## Other Notebook and Experiment i tried
 - KMode Notebook
